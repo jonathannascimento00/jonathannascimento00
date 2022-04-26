@@ -1,4 +1,4 @@
-### Olá! Eu sou o Jonathan Mendes! 😊 Pegue um café ☕ e fique a vontade!
+### Olá! Eu sou o Jonathan, mas pode me chamar de Jow! 😊 Pegue um café ☕ e fique a vontade!
 
 <div>
   <a href="https://github.com/jonathannascimento00"/>
